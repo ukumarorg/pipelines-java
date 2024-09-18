@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/udaykumaram/github-project-pipeline/_apis/build/status%2Fukumarorg.pipelines-java?branchName=main)](https://dev.azure.com/udaykumaram/github-project-pipeline/_build/latest?definitionId=27&branchName=main)
 
 # Contributing
 
